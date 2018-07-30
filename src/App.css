@@ -1,0 +1,27 @@
+.container {
+  margin-top: 10px;
+}
+
+.amount {
+  width: 400px;
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.4), 0 8px 16px 0 rgba(0,0,0,0.4);
+  padding: 1em;
+}
+
+.amount > .show-grid {
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+
+.button-style:focus {
+outline: none;
+}
+
+.savings {
+	color: red;
+	text-decoration-line: line-through;;
+}
+
+.total {
+	color: red;
+}
