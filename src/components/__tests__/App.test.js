@@ -23,3 +23,5 @@ const wrapped = mount (
 );
 expect (wrapped.find(PromoCode).length).toEqual(1);
 });
+
+
